@@ -1,0 +1,14 @@
+history of java 
+features of java
+what is jdk jvm jre
+PRINTING STATEMENTS IN JAVA differents
+tokens - keywords, literals seperators and identifiers 
+class naming convensitions -
+
+datatypes in java - primitive - 8 and non-primitive
+type casting -converting one datatype on other
+
+primitive - one primitive into anothor and non-primitive
+variable - local and globle
+operators - 3 types uniary-inc dec class binary ternary - conditional
+looping statements - 

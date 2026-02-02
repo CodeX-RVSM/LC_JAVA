@@ -1,6 +1,6 @@
 class loop {
     public static void main(String[] args){
-        int age=25;
+        int age=8;
         if(age>=18){
             System.out.println("Yes!!!!...eligible");
         }
